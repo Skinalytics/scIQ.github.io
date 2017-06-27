@@ -1,2 +1,2 @@
 # skinalytics.github.io
-the Skinalytics landing page
+scIQ app development
