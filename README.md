@@ -1,2 +1,2 @@
-# skinalytics.github.io
+# scIQ.github.io
 scIQ app development
